@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-🔭 I like working on backend projects but I am limited to just that, I dabble in Frontend projects as well<br>🤔 but I like having full control in my projects <br>💬 when I collaborate with others, I like to work with SMART people! <br>👯 I’m looking to collaborate on PHP/Laravel, Javascript, Typescript, Node and NextJS projcts<br>🌱 I’m currently learning Java basics for Spring boot<br>💬 Ask me about Laravel<br>
+🔭 I like working on backend projects but I am NOT limited to just that, I dabble in Frontend projects as well<br>🤔 I like having full control in my projects and I enjoy working with learning from others <br>💬 when I collaborate with others, I like to work with SMART people! <br>👯 I’m looking to collaborate on PHP/Laravel, Javascript, Typescript, Node, and NextJS projects <br>🌱 I’m currently learning Java basics for Spring boot<br>💬 Ask me about Laravel<br>
 
 
 ## 🌐 Socials:

@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💫 About Me:
-🔭 I’m currently working on Content management systems with Next JS<br>👯 I’m looking to collaborate on PHP / Laravel projects<br>🌱 I’m currently learning Next JS and React<br>💬 Ask me about  Laravel<br>
+🔭 I like working on backend projects but I am limited to just that, I dabble in Frontend projects as well<br>🤔 but I like having full control in my projects <br>💬 when I collaborate with others, I like to work with SMART people! <br>👯 I’m looking to collaborate on PHP/Laravel, Javascript, Typescript, Node and NextJS projcts<br>🌱 I’m currently learning Java basics for Spring boot<br>💬 Ask me about Laravel<br>
 
 
 ## 🌐 Socials:
